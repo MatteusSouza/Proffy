@@ -14,19 +14,19 @@ function TeacherItem() {
       <View style={styles.profile}>
         <Image 
           style={styles.avatar}
-          source={{ uri: 'http://github.com/diego3g.png' }}
+          source={{ uri: 'http://github.com/matteussouza.png' }}
         />
 
         <View style={styles.profileInfo}>
-          <Text style={styles.name}>Diego Fernandes</Text>
-          <Text style={styles.subject}>Química</Text>
+          <Text style={styles.name}>Mateus Souza</Text>
+          <Text style={styles.subject}>Matemática</Text>
         </View>
       </View>
 
       <Text style={styles.bio}>
-        Entusiasta das melhores tecnologias de química avançada.
+        Entusiasta das melhores tecnologias de matemática avançada.
         {'\n'}{'\n'}
-        Apaixonado por explodir coisas em laboratório e por mudar a vida das pessoas através de experiências. Mais de 200.000 pessoas já passaram por uma das minhas explosões.
+        Apaixonado por hackear mentes através de algoritmos usando a matemática como uma chave de decifrar e compreender o universo.
       </Text>
 
       <View style={styles.footer}>
