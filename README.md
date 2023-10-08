@@ -1,6 +1,8 @@
 # Proffy
 
-Proffy is a platform to connect students with teachers.
+>Proffy is a platform to connect students with teachers.
+
+<img align="right" width="300" src="https://i.imgur.com/M1hUpLg.gif">
 
 ## Requirements
 - Node 16.20.2
@@ -18,7 +20,6 @@ Install yarn `npm install --global yarn` and install expo with `yarn add expo`
 To exit the environment: `deactivate_node`
 
 ## How to run?
-
   
 For the following commands, you must be in the node16 virtual environment. Then activate it from the project's root folder. `node16/bin/activate`
 
@@ -46,3 +47,4 @@ You can run it directly from your smartphone using the Expo client for [Android]
 	    yarn install
 	    yarn start
 
+<img src="https://i.imgur.com/EvJ84fB.gif">
