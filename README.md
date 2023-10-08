@@ -2,7 +2,7 @@
 
 >Proffy is a platform to connect students with teachers.
 
-<img align="right" width="200" src="https://i.imgur.com/M1hUpLg.gif">
+<img align="right" width="300" src="https://i.imgur.com/M1hUpLg.gif">
 
 ## Requirements
 - Node 16.20.2
